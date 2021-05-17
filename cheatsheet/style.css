@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    display: block;
+    margin: 0px;
+    background-color:rgb(2, 2, 2);
+    font-family: monospace;
+}
+.tablename {
+    color:rgb(248, 242, 248);
+}
+thead{
+    background-color:pink;
+    font-weight: bold;
+}
+.tag{
+    background-color: bisque;
+    font-size: 13px;
+}
+
+table{
+    width: 800px;
+    margin: auto;
+    border: 2px solid purple;
+    background-color:rgb(196, 186, 186);
+  }
+td{
+    text-align:left;
+    border-bottom: 1px solid purple;
+}
+th{
+    border-bottom: 1px solid purple;
+}
+tr{
+    line-height: 0px;
+}
